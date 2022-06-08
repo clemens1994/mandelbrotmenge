@@ -41,5 +41,4 @@ def green_square():
 # Draw Mandelbrotmenge
 
 # 1.  Determine screen size
-
 window.setup(300,300)
