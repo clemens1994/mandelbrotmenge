@@ -43,5 +43,3 @@ def green_square():
 # 1.  Determine screen size
 
 window.setup(300,300)
-
-print("TEST CHANGE")
